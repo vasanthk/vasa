@@ -1,0 +1,22 @@
+{
+  "name": "vasa",
+  "version": "0.0.1",
+  "description": "Ambitious placeholder repo for a future lib/framework I'll write someday :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasanthk/vasa.git"
+  },
+  "keywords": [
+    "vasa"
+  ],
+  "author": "Vasanth Krishnamoorthy <vasa.httpster@gmail.com> (http://www.vasanthk.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasanthk/vasa/issues"
+  },
+  "homepage": "https://github.com/vasanthk/vasa"
+}
